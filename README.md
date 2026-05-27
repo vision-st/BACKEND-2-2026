@@ -31,6 +31,7 @@ BACKEND2/
 ## Estado actual
 
 - `semana1`: contiene el proyecto **empresa-x-security**.
+- `semana2`: contiene una web interactiva de teoría JWT y el proyecto **empresa-x-jwt-security**.
 - Las semanas restantes quedan preparadas para futuros ejercicios y evaluaciones.
 
 ## Tecnologías base
